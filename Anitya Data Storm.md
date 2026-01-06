@@ -1,5 +1,3 @@
-Github repo for the Course: [Reproducible Research](https://github.com/mGalarnyk/datasciencecoursera/tree/master/5_Reproducible_Research) </br> Github repo for Rest of Specialization: [Data Science Coursera](https://github.com/mGalarnyk/datasciencecoursera)
-
 1: Synopsis
 -----------
 
@@ -202,8 +200,6 @@ healthChart = healthChart + ggtitle("Top 10 US Killers") + theme(plot.title = el
 healthChart
 ```
 
-![](ReproducibleResearchProject2_files/figure-markdown_github/healthChart-1.png)
-
 ### 3.2: Events that have the Greatest Economic Consequences
 
 Melting data.table so that it is easier to put in bar graph format
@@ -241,5 +237,3 @@ econChart = econChart + ggtitle("Top 10 US Storm Events causing Economic Consequ
 
 econChart
 ```
-
-![](ReproducibleResearchProject2_files/figure-markdown_github/econChart-1.png)
